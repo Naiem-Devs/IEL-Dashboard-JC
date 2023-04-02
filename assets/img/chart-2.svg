@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="334" height="154" viewBox="0 0 334 154">
+  <g id="Group_3206" data-name="Group 3206" transform="translate(-169.262 -961.376)">
+    <rect id="Rectangle_1935" data-name="Rectangle 1935" width="37" height="43" rx="6" transform="translate(169.262 1072.376)" fill="#96999b"/>
+    <rect id="Rectangle_1940" data-name="Rectangle 1940" width="37" height="21" transform="translate(320.262 1077.376)" fill="#002a40"/>
+    <rect id="Rectangle_1947" data-name="Rectangle 1947" width="37" height="13" transform="translate(247.262 1087.376)" fill="#002a40"/>
+    <rect id="Rectangle_1950" data-name="Rectangle 1950" width="37" height="7" transform="translate(395.262 1075.376)" fill="#002a40"/>
+    <rect id="Rectangle_1953" data-name="Rectangle 1953" width="37" height="13" transform="translate(466.262 1093.376)" fill="#002a40"/>
+    <path id="Rectangle_1942" data-name="Rectangle 1942" d="M0,0H37a0,0,0,0,1,0,0V11a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(320.262 1098.376)" fill="#c10908"/>
+    <path id="Rectangle_1946" data-name="Rectangle 1946" d="M0,0H37a0,0,0,0,1,0,0V9a6,6,0,0,1-6,6H6A6,6,0,0,1,0,9V0A0,0,0,0,1,0,0Z" transform="translate(247.262 1100.376)" fill="#c10908"/>
+    <path id="Rectangle_1951" data-name="Rectangle 1951" d="M0,0H37a0,0,0,0,1,0,0V27a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(395.262 1082.376)" fill="#c10908"/>
+    <path id="Rectangle_1952" data-name="Rectangle 1952" d="M0,0H37a0,0,0,0,1,0,0V3a6,6,0,0,1-6,6H6A6,6,0,0,1,0,3V0A0,0,0,0,1,0,0Z" transform="translate(466.262 1106.376)" fill="#c10908"/>
+    <path id="Rectangle_1941" data-name="Rectangle 1941" d="M6,0H31a6,6,0,0,1,6,6V116a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(320.262 961.376)" fill="#3bb273"/>
+    <path id="Rectangle_1948" data-name="Rectangle 1948" d="M6,0H31a6,6,0,0,1,6,6V41a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(247.262 1046.376)" fill="#3bb273"/>
+    <path id="Rectangle_1949" data-name="Rectangle 1949" d="M6,0H31a6,6,0,0,1,6,6v4a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(395.262 1065.376)" fill="#3bb273"/>
+    <path id="Rectangle_1954" data-name="Rectangle 1954" d="M6,0H31a6,6,0,0,1,6,6V61a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(466.262 1032.376)" fill="#3bb273"/>
+  </g>
+</svg>
